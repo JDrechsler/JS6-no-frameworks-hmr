@@ -1,0 +1,24 @@
+{
+  "name": "JS6-no-frameworks-hmr",
+  "version": "1.0.0",
+  "description": "Only native JS/HTML/CSS, no bundling, no compiling, no frameworks, support for state preserving HMR",
+  "main": "client/static/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDrechsler/JS6-no-frameworks-hmr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDrechsler/JS6-no-frameworks-hmr/issues"
+  },
+  "homepage": "https://github.com/JDrechsler/JS6-no-frameworks-hmr#readme",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  },
+  "type": "module"
+}
